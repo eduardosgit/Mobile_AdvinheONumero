@@ -7,5 +7,6 @@
     <string name="texto3">Errou! O numero digitado eh menor</string>
     <string name="numero" />
     <string name="number" />
-    <string name="textoBotao">Ok</string>
+    <string name="textoBotao">OK!</string>
+    <string name="contador" />
 </resources>
